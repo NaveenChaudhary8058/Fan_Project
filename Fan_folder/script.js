@@ -12,7 +12,7 @@ function normal(){
     x[0].style.animationDuration=".5s";
 }
 function fast(){
-    x[0].style.animationDuration="0.1s";
+    x[0].style.animationDuration="0.02s";
 }
 
 
